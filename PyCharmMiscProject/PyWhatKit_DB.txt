@@ -1,0 +1,2425 @@
+Date: 24/5/2025
+Time: 10:50
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 10:51
+Phone Number: +919345531046
+Message: Gesture: Need Water
+--------------------
+Date: 24/5/2025
+Time: 10:51
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 10:51
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 10:52
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 10:52
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 10:53
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 10:54
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 10:54
+Phone Number: +919345531046
+Message: Gesture: Call Family
+--------------------
+Date: 24/5/2025
+Time: 10:55
+Phone Number: +919345531046
+Message: Gesture: Call Family
+--------------------
+Date: 24/5/2025
+Time: 10:55
+Phone Number: +919345531046
+Message: Gesture: Call Family
+--------------------
+Date: 24/5/2025
+Time: 10:55
+Phone Number: +919345531046
+Message: Gesture: Call Family
+--------------------
+Date: 24/5/2025
+Time: 10:56
+Phone Number: +919345531046
+Message: Gesture: Call Family
+--------------------
+Date: 24/5/2025
+Time: 10:56
+Phone Number: +919345531046
+Message: Gesture: Need Water
+--------------------
+Date: 24/5/2025
+Time: 10:56
+Phone Number: +919345531046
+Message: Gesture: Call Family
+--------------------
+Date: 24/5/2025
+Time: 11:43
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 11:43
+Phone Number: +919345531046
+Message: Voice Command: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 11:44
+Phone Number: +919345531046
+Message: Voice Command: Need Water
+--------------------
+Date: 24/5/2025
+Time: 12:45
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 12:45
+Phone Number: +919345531046
+Message: Gesture: Call Nurse
+--------------------
+Date: 24/5/2025
+Time: 12:45
+Phone Number: +919345531046
+Message: Gesture: Call Family
+--------------------
+Date: 24/5/2025
+Time: 12:46
+Phone Number: +919345531046
+Message: Gesture: Need Water
+--------------------
+Date: 24/5/2025
+Time: 12:46
+Phone Number: +919345531046
+Message: Gesture: Need Water
+--------------------
+Date: 24/5/2025
+Time: 12:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:54:15Alert Details: Unknown face detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:54:48Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:55
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:55:05Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:55:51Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:55:51Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:55:51Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:56:10Alert Details: Unknown face detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:56:37Alert Details: Unknown face detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:56:55Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 12:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 12:57:11Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:21:10Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:23:03Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:23:19Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:23:35Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:24
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:24:41Alert Details: Voice Command: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:25
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:25:07Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:25
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:25:07Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:32
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:32:16Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:33
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:33:05Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:34
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:33:59Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:36
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:35:53Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:38:49Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:39:07Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:39:41Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:40:20Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:41:19Alert Details: Voice Command: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:42
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:42:32Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:43:01Alert Details: Unknown face detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 14:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 14:43:16Alert Details: Unknown face detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:1
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:01:06Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:12
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:12:16Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:17:59Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:19
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:18:53Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:22
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:22:10Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:22
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:22:40Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:22:56Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:23:13Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:25
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:25:01Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 15:31
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 15:31:41Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 16:22
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 16:22:45Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 16:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 16:23:16Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 16:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 16:23:35Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 16:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 16:23:49Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 16:24
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 16:24:22Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 16:24
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 16:24:43Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:37
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:36:56Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:38
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:38:28Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:38:50Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:39:08Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:39:33Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:40:03Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:40:46Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:41:05Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:52
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:52:17Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:53
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:52:58Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:53
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:53:17Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:53
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:53:35Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 24/5/2025
+Time: 22:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-24 22:54:00Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:11:04Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:13
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:13:02Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:18:25Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:18:43Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:19
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:19:02Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:19
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:19:21Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:21:21Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:21:21Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:54:15Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:56:45Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:58
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:58:02Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 11:59
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:59:38Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 12:0
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 11:59:59Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 12:1
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 12:00:58Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 12:1
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 12:01:42Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 12:2
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 12:02:01Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 25/5/2025
+Time: 12:2
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-05-25 12:02:20Alert Details: Voice Command: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 12/7/2025
+Time: 22:59
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-12 22:59:10Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 14/7/2025
+Time: 0:7
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-14 00:07:15Alert Details: Voice Recognition Mode ActivatedKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 14/7/2025
+Time: 0:7
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-14 00:07:33Alert Details: Switched to Default Monitoring ModeKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 14/7/2025
+Time: 0:8
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-14 00:08:06Alert Details: Voice Recognition Mode ActivatedKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 14/7/2025
+Time: 0:8
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-14 00:08:26Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 14/7/2025
+Time: 0:8
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-14 00:08:43Alert Details: Switched to Default Monitoring ModeKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 14/7/2025
+Time: 0:9
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-14 00:08:58Alert Details: Voice Recognition Mode ActivatedKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 14/7/2025
+Time: 0:9
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-14 00:09:12Alert Details: Switched to Default Monitoring ModeKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 14/7/2025
+Time: 0:9
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-07-14 00:09:29Alert Details: Voice Recognition Mode ActivatedKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:13
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:13:34Alert Details: Voice Recognition Mode ActivatedKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:13:55Alert Details: Switched to Default Monitoring ModeKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:14:17Alert Details: Voice Recognition Mode ActivatedKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:15
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:14:58Alert Details: Switched to Default Monitoring ModeKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:15
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:15:40Alert Details: Voice Recognition Mode ActivatedKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:26
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:26:20Alert Details: Voice Recognition Mode ActivatedKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:26
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:26:43Alert Details: Switched to Default Monitoring ModeKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:32
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:32:38Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:33
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:32:58Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:35
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:35:48Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:38
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:38:20Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:38:56Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:39:27Alert Details: Voice Command: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:40:14Alert Details: Voice Command: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:40:44Alert Details: Voice Command: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 17:59
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 17:59:24Alert Details: Gesture: Need WaterKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:0
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:00:01Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:3
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:03:29Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:16
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:16:11Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:17
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:17:23Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:20
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:20:40Alert Details: Gesture: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:22
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:22:48Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:26
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:26:04Alert Details: Gesture: Call NurseKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:26
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:26:24Alert Details: Voice Command: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 11/8/2025
+Time: 18:26
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-11 18:26:24Alert Details: Voice Command: Call FamilyKindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 15/8/2025
+Time: 9:49
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-15 09:48:54Alert Details: Fall Detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 15/8/2025
+Time: 9:49
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-15 09:49:18Alert Details: Fall Detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 15/8/2025
+Time: 9:49
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-15 09:49:41Alert Details: Fall Detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 15/8/2025
+Time: 9:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-15 09:50:05Alert Details: Fall Detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 15/8/2025
+Time: 9:53
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-15 09:53:25Alert Details: Fall Detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 15/8/2025
+Time: 9:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-15 09:53:49Alert Details: Fall Detected!Kindly address this situation promptly to ensure patient safety and well-being.Thank you.
+--------------------
+Date: 16/8/2025
+Time: 2:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:10:15Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:10:54Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:10:56Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:11:00Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:11:02Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:11:03Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:11:05Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:11:05Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:11:07Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:11:08Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:11:37Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:18:15Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Timestamp: 2025-08-16 02:21:28Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:28
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 02:28:27Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:31
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 02:31:29Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:32
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 02:32:30Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:37
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 02:37:40Alert Details: Potential Fall DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 2:38
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 02:38:10Alert Details: Potential Fall DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 9:36
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 09:35:52Alert Details: Potential Fall DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 9:37
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 09:37:03Alert Details: Potential Fall DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 9:42
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 09:42:12Alert Details: Potential Fall DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 9:42
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 09:42:26Alert Details: Potential Fall DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 9:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 09:43:29Alert Details: Potential Fall DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 20:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 20:56:35Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 21:4
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 21:04:42Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 21:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 21:14:22Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 21:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 21:18:27Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 21:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 21:18:34Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 21:29
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 21:28:46Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 22:4
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 22:04:07Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 22:4
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 22:04:14Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:05:48Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:05:53Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:06:13Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:06:26Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:8
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:08:02Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:17
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:17:25Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:18:09Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:19
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:19:12Alert Details: Voice Command: Call NurseThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:20
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:20:37Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:21:01Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:21:03Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:21:05Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:21:33Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:21:33Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:22
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:21:47Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 16/8/2025
+Time: 23:22
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-16 23:21:47Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:09Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:12Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:15Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:18Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:20Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:23Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:26Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:28Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:31Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:31Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:33Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:35Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:38Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:40Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:43Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:45Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:48Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 0:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 00:10:50Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 19:15
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 19:14:57Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 19:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 19:18:34Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 17/8/2025
+Time: 19:34
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-17 19:34:15Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:42
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:42:36Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:45
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:44:53Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:45
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:45:02Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:45
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:45:08Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:45
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:45:30Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:46
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:45:50Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:46
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:46:10Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:46
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:46:19Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 14:46
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 14:46:30Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:39:49Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:40:14Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:40:17Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:40:20Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:40
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:40:23Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:41:12Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:41:16Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:41:20Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 15:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 15:41:23Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 18:31
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 18:30:59Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 18:31
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 18:31:15Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 18:31
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 18:31:22Alert Details: Unidentified Person Detected (Face Not Visible)This is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 18:31
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 18:31:31Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 18:33
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 18:33:26Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 18:34
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 18:33:51Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 18:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 18:41:36Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:06:07Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:06:14Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:06:39Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:11:26Alert Details: Unknown Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:12
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:12:00Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:12
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:12:29Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:13
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:12:59Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:19
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:19:22Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:24
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:24:39Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:25
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:24:49Alert Details: Voice Command: Call NurseThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:25
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:25:21Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:33
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:32:45Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:41:21Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:42
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:41:47Alert Details: Voice Command: Call FamilyThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:42
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:42:11Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 19:42
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 19:42:21Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 20:32
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 20:32:22Alert Details: Patient has left the bedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 20:32
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 20:32:30Alert Details: Patient has left the bedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 20:37
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: John DoeTimestamp: 2025-08-18 20:36:56Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 20:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-18 20:42:50Alert Details: Unidentified Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 21:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-18 21:10:24Alert Details: Unidentified Person DetectedThis is an automated alert.
+--------------------
+Date: 18/8/2025
+Time: 21:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-18 21:11:37Alert Details: Unidentified Person DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 1:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 01:50:43Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 2:34
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 02:33:57Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 2:34
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 02:34:00Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 2:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 02:50:10Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 2:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 02:50:39Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 2:51
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 02:51:08Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:23Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:24Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:27Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:27Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:28Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:28Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:29Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:30Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:31Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:33Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:33Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:34Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:34Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:38Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:40Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:21:41Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:27
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:27:24Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:27
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:27:38Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:27
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:27:39Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:29
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:28:54Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 15:30
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 15:30:15Alert Details: Patient has left the bedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 16:44
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 16:44:20Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 16:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 16:47:15Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 16:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 16:47:17Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 16:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 16:47:17Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 16:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 16:47:19Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 16:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 16:47:21Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 16:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 16:47:22Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 16:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 16:47:23Alert Details: Potential Stroke DetectedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 21:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 21:20:55Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 21:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 21:21:25Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 21:22
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 21:22:35Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 21:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 21:23:03Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 21:24
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 21:23:46Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 21:44
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 21:43:57Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:10:17Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:10:35Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:13:52Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:13:59Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:14:12Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:15
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:14:53Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:16
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:15:43Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:16
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:16:43Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:17
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:17:15Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:17
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:17:34Alert Details: Voice Command: Call FamilyThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:17
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:17:38Alert Details: Voice Command: Call NurseThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 22:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 22:18:00Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 23:8
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 23:07:54Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 23:8
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 23:08:29Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 23:9
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 23:09:04Alert Details: Gesture: Call FamilyThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 23:9
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 23:09:30Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 23:9
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 23:09:32Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 23:17
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 23:17:41Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 19/8/2025
+Time: 23:27
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-19 23:26:57Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:11:04Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:11:30Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:12
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:11:46Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:12
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:11:54Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:12
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:12:21Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:12
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:12:27Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:16
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:16:26Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:31
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:30:48Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:33
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:33:00Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:34
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:33:52Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:34
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:34:15Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:37
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:37:25Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:37
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:37:36Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 10:39
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 10:39:00Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:06:36Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:7
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:07:14Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:8
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:07:50Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:8
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:08:13Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:15
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:14:52Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:15
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:15:25Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:16
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:16:40Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:18:16Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 11:20
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 11:19:54Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 12:38
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 12:38:42Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 12:42
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 12:42:02Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 12:53
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 12:53:03Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 16:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 16:14:07Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 16:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 16:14:33Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 16:16
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 16:16:35Alert Details: DANGER: Knife Detected!This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 16:17
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 16:17:37Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 16:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 16:18:31Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 16:19
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 16:19:18Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 16:28
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 16:28:11Alert Details: DANGER: High-confidence Knife Detected! (0.75)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:48
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:47:45Alert Details: Knife DetectedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:48
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:47:51Alert Details: Knife DetectedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:48
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:48:12Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:50:03Alert Details: Knife DetectedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:56:06Alert Details: Knife DetectedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:56:42Alert Details: Knife DetectedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:56:46Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:56:49Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:57:10Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:57:21Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:57:35Alert Details: DANGER: High-confidence Knife Detected! (0.77)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:57:38Alert Details: DANGER: High-confidence Knife Detected! (0.76)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:57:41Alert Details: Knife DetectedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 17:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 17:57:42Alert Details: DANGER: High-confidence Knife Detected! (0.76)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 18:0
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 18:00:10Alert Details: DANGER: High-confidence Knife Detected! (0.85)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 18:0
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 18:00:18Alert Details: DANGER: High-confidence Knife Detected! (0.79)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 18:0
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 18:00:37Alert Details: DANGER: High-confidence Knife Detected! (0.82)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 18:0
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 18:00:41Alert Details: DANGER: High-confidence Knife Detected! (0.83)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 18:1
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 18:00:52Alert Details: DANGER: High-confidence Knife Detected! (0.79)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:37
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:37:38Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:37
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:37:41Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:40:52Alert Details: Knife DetectedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:41
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:41:26Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:42:53Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:43:22Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:45
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:45:33Alert Details: DANGER: High-confidence Knife Detected! (0.76)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:45
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:45:39Alert Details: DANGER: High-confidence Knife Detected! (0.76)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:46
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:46:07Alert Details: DANGER: High-confidence Knife Detected! (0.75)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:46
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:46:26Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:47:07Alert Details: DANGER: High-confidence Knife Detected! (0.79)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:47:11Alert Details: DANGER: High-confidence Knife Detected! (0.76)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:49
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:49:40Alert Details: DANGER: High-confidence Knife Detected! (0.80)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:50:12Alert Details: DANGER: High-confidence Knife Detected! (0.75)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:50:14Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:50:15Alert Details: DANGER: High-confidence Knife Detected! (0.77)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:53:49Alert Details: DANGER: High-confidence Knife Detected! (0.71)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:53:51Alert Details: DANGER: High-confidence Knife Detected! (0.75)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:54:09Alert Details: DANGER: High-confidence Knife Detected! (0.71)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:54:10Alert Details: DANGER: High-confidence Knife Detected! (0.71)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 21:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 21:54:28Alert Details: DANGER: High-confidence Knife Detected! (0.71)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 22:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 22:56:39Alert Details: DANGER: High-confidence Knife Detected! (0.76)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 22:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 22:56:46Alert Details: DANGER: High-confidence Knife Detected! (0.76)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 22:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 22:57:06Alert Details: DANGER: High-confidence Knife Detected! (0.73)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 22:57
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 22:57:07Alert Details: DANGER: High-confidence Knife Detected! (0.74)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 23:27
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 23:27:35Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 23:28
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 23:28:02Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 23:29
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 23:28:52Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 23:29
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 23:29:29Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 20/8/2025
+Time: 23:30
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-20 23:30:37Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:9
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:09:17Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:09:47Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:10:10Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:10:48Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:11:20Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:13:55Alert Details: DANGER: High-confidence Knife Detected! (0.77)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:13:58Alert Details: DANGER: High-confidence Knife Detected! (0.74)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:13:58Alert Details: DANGER: High-confidence Knife Detected! (0.74)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:14:01Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:14:01Alert Details: DANGER: High-confidence Knife Detected! (0.73)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:14:02Alert Details: DANGER: High-confidence Knife Detected! (0.77)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 8:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 08:14:36Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 9:58
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 09:58:38Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 10:2
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 10:02:40Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 10:3
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 10:03:07Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 10:4
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 10:03:48Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 10:4
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 10:04:28Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 10:5
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 10:05:00Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 10:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 10:06:02Alert Details: DANGER: High-confidence Knife Detected! (0.74)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 20:48
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 20:47:50Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 21:16
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 21:15:45Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 21:17
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 21:16:57Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 21:18
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 21:18:22Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 21:20
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 21:20:28Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 21:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 21:22:51Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 22:14
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 22:14:09Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 22:15
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 22:15:40Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 22:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 22:21:00Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 22:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 22:21:10Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 23:2
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 23:02:40Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 23:3
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 23:03:00Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 23:3
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 23:03:31Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 23:5
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 23:05:43Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 23:7
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 23:06:48Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 21/8/2025
+Time: 23:25
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-21 23:25:32Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 0:58
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 00:58:32Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 0:59
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 00:59:12Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 0:59
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 00:59:30Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 1:0
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 01:00:19Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 1:1
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 01:00:52Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 9:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 09:23:00Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 10:20
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 10:20:16Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 10:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 10:42:51Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 10:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 10:43:21Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 10:44
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 10:44:39Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:20
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:20:19Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:20
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:20:21Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:20
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:20:41Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:21
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:21:26Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:48
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:48:15Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:50
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:50:33Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:52
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:51:49Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:52
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:51:56Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:52
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:52:01Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 11:52
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 11:52:05Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:23
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:22:46Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:25
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:25:05Alert Details: DANGER: High-confidence Knife Detected! (0.73)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:25
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:25:06Alert Details: DANGER: High-confidence Knife Detected! (0.77)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:26
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:25:51Alert Details: DANGER: High-confidence Knife Detected! (0.77)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:28
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:27:46Alert Details: DANGER: High-confidence Knife Detected! (0.84)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:28
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:27:57Alert Details: DANGER: High-confidence Knife Detected! (0.75)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:28
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:28:24Alert Details: DANGER: High-confidence Knife Detected! (0.72)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:28
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:28:27Alert Details: DANGER: High-confidence Knife Detected! (0.70)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:35
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:35:37Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:36
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:36:18Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:42:56Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:43
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:43:18Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:44
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:43:58Alert Details: DANGER: High-confidence Knife Detected! (0.77)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:44
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:44:41Alert Details: DANGER: High-confidence Knife Detected! (0.75)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:45
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:45:27Alert Details: Unidentified PersonThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:47
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:47:12Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:48
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:47:58Alert Details: DANGER: High-confidence Knife Detected! (0.78)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:54:27Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:54
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:54:41Alert Details: Unknown PersonThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:55
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:55:38Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 12:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 12:55:45Alert Details: Gesture: Need WaterThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 21:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 21:55:45Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 21:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 21:56:12Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 21:56
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 21:56:35Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 21:58
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 21:58:39Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:1
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:01:33Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:3
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:03:38Alert Details: Gesture: Call NurseThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:4
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:04:10Alert Details: Voice Command: Need WaterThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:5
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:04:54Alert Details: Patient Left BedThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:5
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:05:35Alert Details: Frequent Coughing Detected (4 coughs)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:6
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:06:15Alert Details: Potential StrokeThis is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:10:18Alert Details: DANGER: High-confidence Knife Detected! (0.81)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:10:19Alert Details: DANGER: High-confidence Knife Detected! (0.77)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:10
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:10:43Alert Details: DANGER: High-confidence Knife Detected! (0.75)This is an automated alert.
+--------------------
+Date: 22/8/2025
+Time: 22:11
+Phone Number: +919345531046
+Message: *** Patient Room Monitoring Alert ***Patient ID: PAT001Patient Name: tamizhvendhanTimestamp: 2025-08-22 22:11:30Alert Details: Unknown PersonThis is an automated alert.
+--------------------
